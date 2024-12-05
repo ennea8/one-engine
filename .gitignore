@@ -1,0 +1,8 @@
+.DS_Store
+.history
+.idea
+.vscode
+
+/target
+
+.env
